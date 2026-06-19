@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+.venv/
+env/
+venv/
+*.pyc
+*.pyo
+*.pyd
+.idea
+fastapienv/
