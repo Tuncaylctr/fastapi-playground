@@ -26,3 +26,6 @@ ENV/
 
 # IDE - VS Code
 .vscode/
+
+#database
+*.db*.db
